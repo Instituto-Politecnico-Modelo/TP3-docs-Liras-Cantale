@@ -50,8 +50,6 @@ Las siguientes funcionalidades están confirmadas dentro del alcance del proyect
 | Vista de resumen semanal y mensual de entrenamiento | ✅ INCLUIDO |
 | Panel de administración web para el entrenador | ✅ INCLUIDO |
 | Registro público de usuarios (el alta la gestiona el entrenador) | ✅ INCLUIDO |
-| Funcionamiento completo offline (sin conexión a internet) | ✅ INCLUIDO |
-| Sincronización automática de datos al recuperar señal | ✅ INCLUIDO |
 | Soporte multiplataforma: Android e iOS con experiencia equivalente | ✅ INCLUIDO |
 
 ---
@@ -74,6 +72,8 @@ Las siguientes funcionalidades quedan fuera del alcance de este proyecto, ya sea
 | Red social interna: publicación de fotos de progreso | ❌ EXCLUIDO |
 | Red social interna: feed de publicaciones del grupo | ❌ EXCLUIDO |
 | Red social interna: reacciones ("likes") entre alumnos | ❌ EXCLUIDO |
+| Funcionamiento completo offline (sin conexión a internet) | ❌ EXCLUIDO  |
+| Sincronización automática de datos al recuperar señal |  ❌ EXCLUIDO |
 
 ---
 
