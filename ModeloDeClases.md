@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
 
 %% =======================
@@ -62,8 +63,6 @@ class ResumenEntrenamiento {
 
 class GraficoEvolucion {
     +String ejercicio
-    +List~Float~ pesos
-    +List~Int~ repeticiones
     +generarDatos(usuarioId, ejercicio)
 }
 
@@ -80,3 +79,4 @@ Usuario "1" --> "0..*" GraficoEvolucion : visualiza
 
 ResumenEntrenamiento --> Sesion : analiza
 GraficoEvolucion --> Entrada : analiza
+```
